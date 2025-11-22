@@ -16,7 +16,7 @@ Our team built an end-to-end modeling pipeline using multiple data sources tied 
 
 We engineered aggregated behavioral features (e.g., total existing debt, credit utilization, counts of late payments, and consistency of repayment). We tested several models including baseline logistic regression, random forest, and gradient boosting, and selected the best model based on cross-validated performance.
 
-#My Individual Contributions
+## My Individual Contributions
 
 My personal work on the project included:
 
