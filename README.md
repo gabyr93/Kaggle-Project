@@ -27,7 +27,7 @@ My personal work on the project included:
 
 You can find my individual notebooks in the /portfolio folder.
 
-**Business Value**
+## **Business Value**
 
 The final model helps Home Credit:
 
